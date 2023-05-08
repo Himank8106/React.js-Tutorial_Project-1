@@ -1,0 +1,1 @@
+TextUtils is a word and a character counter utility which can be used to manipulate your text in the way you want. You can convert your text from upperCase to lowerCase, lowercase to uppercase, clear text, copy text and read the text.
